@@ -1,0 +1,10 @@
+D:\с++ poj\homeWork_WinForm\hw_02_02\bin\Debug\hw_02_02.exe.config
+D:\с++ poj\homeWork_WinForm\hw_02_02\bin\Debug\hw_02_02.exe
+D:\с++ poj\homeWork_WinForm\hw_02_02\bin\Debug\hw_02_02.pdb
+D:\с++ poj\homeWork_WinForm\hw_02_02\obj\Debug\hw_02_02.csprojAssemblyReference.cache
+D:\с++ poj\homeWork_WinForm\hw_02_02\obj\Debug\hw_02_02.Form1.resources
+D:\с++ poj\homeWork_WinForm\hw_02_02\obj\Debug\hw_02_02.Properties.Resources.resources
+D:\с++ poj\homeWork_WinForm\hw_02_02\obj\Debug\hw_02_02.csproj.GenerateResource.cache
+D:\с++ poj\homeWork_WinForm\hw_02_02\obj\Debug\hw_02_02.csproj.CoreCompileInputs.cache
+D:\с++ poj\homeWork_WinForm\hw_02_02\obj\Debug\hw_02_02.exe
+D:\с++ poj\homeWork_WinForm\hw_02_02\obj\Debug\hw_02_02.pdb
